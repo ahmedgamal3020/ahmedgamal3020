@@ -1,4 +1,4 @@
-# Hi there, I'm Ahmed Gamal 👋
+#  Ahmed Gamal 👋 Hi there
 
 Welcome to my GitHub profile! I'm passionate about data, technology, and creating impactful solutions. Here's a bit about me:
 
