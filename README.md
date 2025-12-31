@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm passionate about data, technology, and creatin
 - **AWS Services**: S3, Lambda, Glue, Redshift
 - **Big Data Tools**: Spark 
 - **Languages**: Python, SQL, Java, Markdown
-- **Databases**: PostgreSQL, SQL Server, PostGIS
+- **Databases**: PostgreSQL, SQL Server,
 - **Libraries/Frameworks**: Pandas, NumPy, Requests, OS, re, psycopg2, GeoPandas
 - **APIs**: Google Sheets API, OpenFlights Data
 - **Version Control**: Git, GitHub
